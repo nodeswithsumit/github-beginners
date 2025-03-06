@@ -4,7 +4,7 @@ Welcome to **GitHub Practicals for Beginners**! This repository contains a set o
 
 ## Contents
 
-1. [Create Your First Repository](01-create-repository.md)
+1. [Create Your First Repository](/practice/01-create-repository.md)
 2. [Clone a Repository](02-clone-repository.md)
 3. [Make Changes and Commit Locally](03-make-changes-and-commit.md)
 4. [Push Changes to GitHub](04-push-changes-to-github.md)
