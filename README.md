@@ -35,10 +35,10 @@ Each exercise is carefully crafted with clear objectives and practical steps:
 
 ```bash
 # Clone this repository
-git clone https://github.com/your-username/github-for-beginners.git
+git clone https://github.com/nodeswithsumit/github-beginners.git
 
 # Navigate to the project directory
-cd github-for-beginners
+cd github-beginners
 
 # Check exercise directories
 ls practice/
